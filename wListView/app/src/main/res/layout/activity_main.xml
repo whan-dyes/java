@@ -9,8 +9,8 @@
 <TextView
     android:id="@+id/text_1"
     android:layout_gravity="center"
-    android:textSize="24dp"
-    android:text="*********"
+    android:textSize="22dp"
+    android:text="main** text"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"/>
  <ListView
