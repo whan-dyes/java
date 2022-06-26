@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="toAnotherFragment">AnotherFragment</string>
+    <string name="another_fragment">another fragment</string>
+</resources>
