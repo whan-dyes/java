@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">wListView</string>
+    <string name="main_text">main -text</string>
 </resources>
